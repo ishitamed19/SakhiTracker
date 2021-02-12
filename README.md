@@ -53,5 +53,8 @@ Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by
   7. Add medicine reminder (we already have the calendar; so we need to add the ability to log what medicines are needed to be consumed on what day and in what doses)
   8. Send push-notifications to remind user about maintaing exercise streak, about possible upcoming menstrual cycle (based on previous estimated cycle length), as well as, for medicines.
 
-
+## Bugs / Point-of-Failure:
+ 1. Deleting all the activvites leads to deletion of activity key from the firebase and throws out error. 
+ 2. Practo API currently unavailable.
+ 3. Clicking a blog link / being redirected from the website, and then going back to the website using 'history.back' or simply using the same URL does not remeber the logged in user. Hence the user has to sign-in again. 
 
