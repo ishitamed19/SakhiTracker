@@ -2,6 +2,7 @@
 Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by Microsoft
 
 **Link:** [https://master.d35deudwj7fg7r.amplifyapp.com/](https://master.d35deudwj7fg7r.amplifyapp.com/)
+**3-min Pitch:** [https://youtu.be/uRg7az7xXdo](https://youtu.be/uRg7az7xXdo)
 
 ## Demo:
 ![](public/sakhidemo.gif)
