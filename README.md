@@ -1,5 +1,6 @@
 # Sakhi: "Health and fitness 360" App for Women
 Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by Microsoft
+Link: [https://master.d35deudwj7fg7r.amplifyapp.com/](https://master.d35deudwj7fg7r.amplifyapp.com/)
 
 ## Demo:
 ![](public/sakhidemo.gif)
@@ -33,6 +34,7 @@ Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by
   1. React JS - It is an open-source JavaScript library used for building user interfaces. We have used React along with HTML and JSX to create our single page web application. 
   2. Material UI - It's a React-based library that provides rich-looking UI ccomponents
   3. Firbase - It's a database service provided by Google. We use this for storing activity log of the user.
+  4. Amazon Amplify - Website has been deployed on this
 	
   
 ## Features added to the basic project :
