@@ -58,3 +58,5 @@ Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by
  2. Practo API currently unavailable.
  3. Clicking a blog link / being redirected from the website, and then going back to the website using 'history.back' or simply using the same URL does not remeber the logged in user. Hence the user has to sign-in again. 
 
+## Workflow
+![](public/sysdesign.png)
