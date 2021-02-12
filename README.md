@@ -9,6 +9,14 @@ Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by
 1. To create one stop health and fitness application for women through most stages of life
 2. Make them aware about risks to some common issues like PCOD, Breast/Cervical Cancer, Anaemia, etc. based on their age, diet consumption, menstrual cycle and exercise patterns, as well as, remind them about visiting a doctor if the risk for these diseases is high.
 
+## Using this App :
+
+1. To run the Sakhi App in your local browser:
+2. Clone this repository
+3. Open terminal and go this project's directory
+4. Run `npm install`
+5. Run `npm run start`
+
 ## Objectives :
 
 1. Implement basic fitness tracker and health log
@@ -41,14 +49,6 @@ Repository for "Health and fitness 360" app in partial fulfilment Engage 2021 by
   6. We should fetch user's health/activity logs from her smartphone (with due permission) using Apple's HealthKit or Google Fit API
   7. Add medicine reminder (we already have the calendar; so we need to add the ability to log what medicines are needed to be consumed on what day and in what doses)
   8. Send push-notifications to remind user about maintaing exercise streak, about possible upcoming menstrual cycle (based on previous estimated cycle length), as well as, for medicines.
-
-## Using this App :
-
-1. To run the Sakhi App in your local browser:
-2. Clone this repository
-3. Open terminal and go this project's directory
-4. Run `npm install`
-5. Run `npm run start`
 
 
 
